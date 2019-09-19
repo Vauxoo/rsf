@@ -1,0 +1,12 @@
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 12.0
+[submodule "rsf"]
+	path = rsf
+	url = git@git.vauxoo.com:vauxoo/rsf.git
+	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:vauxoo/reporting-engine.git
+	branch = 12.0
