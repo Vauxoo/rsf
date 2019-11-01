@@ -10,3 +10,7 @@
 	path = reporting-engine
 	url = git@github.com:vauxoo/reporting-engine.git
 	branch = 12.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:vauxoo/product-attribute.git
+	branch = 12.0
