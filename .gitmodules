@@ -14,3 +14,7 @@
 	path = product-attribute
 	url = git@github.com:vauxoo/product-attribute.git
 	branch = 12.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:vauxoo/purchase-workflow.git
+	branch = 12.0
