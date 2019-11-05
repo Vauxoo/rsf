@@ -22,3 +22,11 @@
 	path = account-analytic
 	url = git@github.com:vauxoo/account-analytic.git
 	branch = 12.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:randall-vx/partner-contact.git
+	branch = 12.0
+[submodule "project"]
+	path = project
+	url = git@github.com:vauxoo/project.git
+	branch = 12.0
