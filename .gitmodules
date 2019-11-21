@@ -30,3 +30,7 @@
 	path = project
 	url = git@github.com:vauxoo/project.git
 	branch = 12.0
+[submodule "hr"]
+	path = hr
+	url = git@github.com:randall-vx/hr.git
+	branch = 12.0
