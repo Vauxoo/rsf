@@ -24,7 +24,7 @@
 	branch = 12.0
 [submodule "partner-contact"]
 	path = partner-contact
-	url = git@github.com:oca/partner-contact.git
+	url = git@github.com:vauxoo/partner-contact.git
 	branch = 12.0
 [submodule "project"]
 	path = project
@@ -32,17 +32,17 @@
 	branch = 12.0
 [submodule "hr"]
 	path = hr
-	url = git@github.com:OCA/hr.git
+	url = git@github.com:vauxoo/hr.git
 	branch = 12.0
 [submodule "web"]
 	path = web
-	url = git@github.com:OCA/web.git
+	url = git@github.com:vauxoo/web.git
 	branch = 12.0
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
-	url = git@github.com:OCA/stock-logistics-warehouse.git
+	url = git@github.com:vauxoo/stock-logistics-warehouse.git
 	branch = 12.0
 [submodule "server-ux"]
 	path = server-ux
-	url = git@github.com:OCA/server-ux.git
+	url = git@github.com:vauxoo/server-ux.git
 	branch = 12.0
